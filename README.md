@@ -38,7 +38,7 @@ The goal is to explore data and create meaningful visualizations to understand s
 ---
 
 ## 📷 Project Screenshots
-![Sales Analysis]([PASTE_IMAGE_LINK_1](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-21%20231243.png)
+![Year-wise Sales](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-21%20231243.png)
 ![Quarter Analysis](PASTE_IMAGE_LINK_2)
 ![Monthly Trend](PASTE_IMAGE_LINK_3)
 ![Yearly Sales](PASTE_IMAGE_LINK_4)
