@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing the Adventure Works dataset using Microsoft Excel.  
-The goal is to explore data and create meaningful visualizations to understand sales trends and patterns.
+The goal is to explore data and create meaningful visualizations to understand sales trends, patterns, and business insights.
 
 ---
 
@@ -15,12 +15,12 @@ The goal is to explore data and create meaningful visualizations to understand s
 ---
 
 ## 📂 Dataset Files
-- DimCustomer  
-- DimDate  
-- DimProduct  
-- DimProductCategory  
-- DimProductSubCategory  
-- FactInternetSales  
+- DimCustomer.xlsx  
+- DimDate.xlsx  
+- DimProduct.xlsx  
+- DimProductCategory.xlsx  
+- DimProductSubCategory.xlsx  
+- FactInternetSales.xlsx  
 
 ---
 
@@ -37,7 +37,6 @@ The goal is to explore data and create meaningful visualizations to understand s
 
 ---
 
-## 📷 Project Screenshots
 ## 📊 Visualizations
 
 ### 📈 Year-wise Sales Analysis
@@ -58,18 +57,29 @@ The goal is to explore data and create meaningful visualizations to understand s
 ### 📊 Sales vs Product Cost Analysis
 ![Sales vs Cost](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-21%20231342.png?raw=true)
 
+---
+
 ## 📈 Skills Demonstrated
 - Data Analysis  
 - Data Visualization  
 - Excel Charts  
 - Data Interpretation  
+- Business Insight Generation  
+
+---
+
+## 🔍 Key Insights
+- Sales showed significant growth in recent years, especially around 2013  
+- Certain months contributed more to overall sales, indicating seasonal trends  
+- Quarterly distribution highlights variation in performance across the year  
+- Product cost vs sales analysis helps understand profitability patterns  
 
 ---
 
 ## 🚀 Project Outcome
-- Gained practical experience in Excel  
-- Learned how to visualize data effectively  
-- Improved analytical thinking  
+- Analyzed sales data to identify trends and patterns  
+- Created visual reports for better decision-making  
+- Developed strong data analysis and visualization skills  
 
 ---
 
