@@ -38,12 +38,25 @@ The goal is to explore data and create meaningful visualizations to understand s
 ---
 
 ## 📷 Project Screenshots
-![Year-wise Sales](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-21%20231243.png)
-![Quarter Analysis](PASTE_IMAGE_LINK_2)
-![Monthly Trend](PASTE_IMAGE_LINK_3)
-![Yearly Sales](PASTE_IMAGE_LINK_4)
+## 📊 Visualizations
+
+### 📈 Year-wise Sales Analysis
+![Year-wise Sales](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-21%20231243.png?raw=true)
 
 ---
+
+### 📅 Month-wise Sales Trend
+![Month-wise Sales](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-21%20231301.png?raw=true)
+
+---
+
+### 🥧 Quarter-wise Sales Distribution
+![Quarter-wise Sales](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-21%20231319.png?raw=true)
+
+---
+
+### 📊 Sales vs Product Cost Analysis
+![Sales vs Cost](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-21%20231342.png?raw=true)
 
 ## 📈 Skills Demonstrated
 - Data Analysis  
