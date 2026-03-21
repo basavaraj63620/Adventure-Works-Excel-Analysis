@@ -1,53 +1,62 @@
 # 📊 Adventure Works Excel Data Analysis
 
 ## 📌 Project Overview
-This project is based on the Adventure Works dataset.  
-The goal is to perform data cleaning, analysis, and create insights using Microsoft Excel.
+This project focuses on analyzing the Adventure Works dataset using Microsoft Excel.  
+The goal is to explore data and create meaningful visualizations to understand sales trends and patterns.
 
 ---
 
 ## 🎯 Objectives
-- Understand dataset structure
-- Perform data cleaning and formatting
-- Use formulas and functions
-- Apply conditional formatting
-- Create interactive dashboard
+- Analyze sales data using Excel  
+- Create visual charts for insights  
+- Understand product and cost relationships  
+- Identify trends over time  
 
 ---
 
 ## 📂 Dataset Files
-- DimCustomer
-- DimDate
-- DimProduct
-- DimProductCategory
-- DimProductSubCategory
-- FactInternetSales
+- DimCustomer  
+- DimDate  
+- DimProduct  
+- DimProductCategory  
+- DimProductSubCategory  
+- FactInternetSales  
 
 ---
 
 ## 🛠️ Tools Used
-- Microsoft Excel
+- Microsoft Excel  
 
 ---
 
-## 📊 Key Features
-- Data cleaning and preprocessing  
-- Use of formulas (SUM, AVERAGE, COUNT)  
-- Conditional Formatting  
-- Pivot Tables  
-- Dashboard creation  
+## 📊 Visualizations Created
+- Sales vs Product Cost Analysis (Bar Chart)  
+- Quarter-wise Sales Distribution (Pie Chart)  
+- Month-wise Sales Trend (Line Chart)  
+- Year-wise Sales Amount (Column Chart)  
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](PASTE_YOUR_IMAGE_LINK_HERE)
+## 📷 Project Screenshots
+![Sales Analysis](PASTE_IMAGE_LINK_1)
+![Quarter Analysis](PASTE_IMAGE_LINK_2)
+![Monthly Trend](PASTE_IMAGE_LINK_3)
+![Yearly Sales](PASTE_IMAGE_LINK_4)
+
+---
+
+## 📈 Skills Demonstrated
+- Data Analysis  
+- Data Visualization  
+- Excel Charts  
+- Data Interpretation  
 
 ---
 
 ## 🚀 Project Outcome
-- Gained hands-on experience in Excel data analysis  
-- Built interactive dashboard  
-- Improved data visualization skills  
+- Gained practical experience in Excel  
+- Learned how to visualize data effectively  
+- Improved analytical thinking  
 
 ---
 
