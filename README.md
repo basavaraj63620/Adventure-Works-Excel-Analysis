@@ -1,10 +1,28 @@
-# 📊 Adventure Works Excel Data Analysis
+# 📊 Adventure Works Excel Sales Dashboard & Analysis
 
 ## 📌 Project Overview
 This project focuses on analyzing the Adventure Works dataset using Microsoft Excel.  
 The goal is to explore data and create meaningful visualizations to understand sales trends, patterns, and business insights.
 
 ---
+## 🔹 Dashboard Overview
+An interactive Excel dashboard was built to visualize key business metrics and performance.
+
+### 🔹 Dashboard Features
+- Sales by Category & Subcategory  
+- Sales by Region & Country  
+- Top 10 Products & Customers  
+- Monthly & Yearly Trends  
+- Sales vs Product Cost Analysis  
+- Interactive slicers (Year, Quarter, Month, Region)
+
+---
+
+## 📷 Dashboard Preview
+![Dashboard](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-22%20204222.png?raw=true)
+
+🔗 [View Full Dashboard Image](https://github.com/basavaraj63620/Adventure-Works-Excel-Analysis/blob/main/Screenshot%202026-03-22%20204222.png)
+
 
 ## 🎯 Objectives
 - Analyze sales data using Excel  
